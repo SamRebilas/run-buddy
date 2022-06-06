@@ -12,3 +12,5 @@ https://samrebilas.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Sam Rebilas]
+
+# Run Buddy Inc.
