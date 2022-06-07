@@ -13,14 +13,17 @@ body{
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1{
     font-weight: bold;
+    margin: 0;
     font-size: 36px;
     color: #fce138;
-    margin: 0;
-    display: inline;
+    
 }
 
 header a{
@@ -30,7 +33,7 @@ header a{
 }
 
 header nav{
-    float: right;
+    
     margin: 7px 0;
 }
 
@@ -224,7 +227,7 @@ section{
   }
   .contact h2{
       color: #fce138;
-      vertical-align: top;
+      
       
      
   }
@@ -253,3 +256,13 @@ section{
 .contact a{
     color: #fce138;
 }
+/* REACH OUT STYLES END */
+
+/* UTILITIES */
+.text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
